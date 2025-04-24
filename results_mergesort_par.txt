@@ -1,0 +1,14 @@
+Running parallel mergesort with array size 10000
+/var/spool/slurm/slurmd/job14074/slurm_script: line 12: ./mergesort_par: No such file or directory
+Running parallel mergesort with array size 100000
+/var/spool/slurm/slurmd/job14074/slurm_script: line 12: ./mergesort_par: No such file or directory
+Running parallel mergesort with array size 1000000
+/var/spool/slurm/slurmd/job14074/slurm_script: line 12: ./mergesort_par: No such file or directory
+Running parallel mergesort with array size 10000000
+/var/spool/slurm/slurmd/job14074/slurm_script: line 12: ./mergesort_par: No such file or directory
+Running parallel mergesort with array size 50000000
+/var/spool/slurm/slurmd/job14074/slurm_script: line 12: ./mergesort_par: No such file or directory
+Running parallel mergesort with array size 100000000
+/var/spool/slurm/slurmd/job14074/slurm_script: line 12: ./mergesort_par: No such file or directory
+Running parallel mergesort with array size 500000000
+/var/spool/slurm/slurmd/job14074/slurm_script: line 12: ./mergesort_par: No such file or directory
