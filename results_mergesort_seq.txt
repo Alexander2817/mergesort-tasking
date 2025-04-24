@@ -1,14 +1,14 @@
 Running sequential mergesort with array size 10000
-/var/spool/slurm/slurmd/job14075/slurm_script: line 12: ./mergesort_seq: No such file or directory
+0.00107881
 Running sequential mergesort with array size 100000
-/var/spool/slurm/slurmd/job14075/slurm_script: line 12: ./mergesort_seq: No such file or directory
+0.0132131
 Running sequential mergesort with array size 1000000
-/var/spool/slurm/slurmd/job14075/slurm_script: line 12: ./mergesort_seq: No such file or directory
+0.15462
 Running sequential mergesort with array size 10000000
-/var/spool/slurm/slurmd/job14075/slurm_script: line 12: ./mergesort_seq: No such file or directory
+1.7883
 Running sequential mergesort with array size 50000000
-/var/spool/slurm/slurmd/job14075/slurm_script: line 12: ./mergesort_seq: No such file or directory
+9.77209
 Running sequential mergesort with array size 100000000
-/var/spool/slurm/slurmd/job14075/slurm_script: line 12: ./mergesort_seq: No such file or directory
+20.2987
 Running sequential mergesort with array size 500000000
-/var/spool/slurm/slurmd/job14075/slurm_script: line 12: ./mergesort_seq: No such file or directory
+110.04
