@@ -6,7 +6,7 @@ In which we will see results with different array sizes to calculate the speedup
 
 ---
 
-##Files Needed
+## Files Needed
 
 Make sure these files are present in the directory:
 
